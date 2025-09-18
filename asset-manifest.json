@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akriti-Chandra/task-management/static/css/main.5d428a1c.css",
+    "main.js": "/Akriti-Chandra/task-management/static/js/main.95ed4e0b.js",
+    "static/js/453.0d5625e4.chunk.js": "/Akriti-Chandra/task-management/static/js/453.0d5625e4.chunk.js",
+    "index.html": "/Akriti-Chandra/task-management/index.html",
+    "main.5d428a1c.css.map": "/Akriti-Chandra/task-management/static/css/main.5d428a1c.css.map",
+    "main.95ed4e0b.js.map": "/Akriti-Chandra/task-management/static/js/main.95ed4e0b.js.map",
+    "453.0d5625e4.chunk.js.map": "/Akriti-Chandra/task-management/static/js/453.0d5625e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d428a1c.css",
+    "static/js/main.95ed4e0b.js"
+  ]
+}
