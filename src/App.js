@@ -81,7 +81,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/Akriti-Chandra/task-management">
       <Routes>
         <Route
           path="/"
